@@ -1,0 +1,20 @@
+    body {
+    background-color:powderblue;
+    }
+  hr {
+  
+    border-style: none;
+    border-top-style:dotted;
+    border-color:#548CA8;
+    border-width:7px;
+    width: 10%
+  }
+    #contactid{
+      text-decoration: none;
+    }
+   h2{
+     color:#4FA095;
+   }
+h1{
+     color:#153462;
+   }
